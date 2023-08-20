@@ -789,7 +789,7 @@ Dictionary
 ----------
 
 Use ``Godot.Collections.Dictionary`` for an untyped ``Variant`` dictionary.
-``Godot.Colelctions.Dictionary<TKey, TValue>`` is a type-safe wrapper around ``Godot.Collections.Dictionary``.
+``Godot.Collections.Dictionary<TKey, TValue>`` is a type-safe wrapper around ``Godot.Collections.Dictionary``.
 
 See also :ref:`Dictionary in C# <doc_c_sharp_collections_dictionary>`.
 
